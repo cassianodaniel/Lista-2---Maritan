@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1575404230 source:c:\users\edgelson\desktop\p2\derzu\roteiro02\questão1\main.cpp
+	<iostream>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	"RestauranteCaseiro.h"
+	<string>
+
+1575399530 c:\users\edgelson\desktop\p2\derzu\roteiro02\questão1\include\pedido.h
+	<string>
+	<iostream>
+
+1575401896 c:\users\edgelson\desktop\p2\derzu\roteiro02\questão1\include\mesaderestaurante.h
+	<string>
+	<iostream>
+	"Pedido.h"
+
+1575402904 c:\users\edgelson\desktop\p2\derzu\roteiro02\questão1\include\restaurantecaseiro.h
+	<string>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	<iostream>
+
+1575404208 source:c:\users\edgelson\desktop\p2\derzu\roteiro02\questão1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+	<string>
+	<iostream>
+
+1575399530 source:c:\users\edgelson\desktop\p2\derzu\roteiro02\questão1\src\pedido.cpp
+	"Pedido.h"
+	<string>
+	<iostream>
+
+1575402998 source:c:\users\edgelson\desktop\p2\derzu\roteiro02\questão1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	<string>
+	<iostream>
+
