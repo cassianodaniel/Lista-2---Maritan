@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Roteiro03" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Roteiro03" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Roteiro03" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Automovel.h" />
+		<Unit filename="include/Carro.h" />
+		<Unit filename="include/Conta.h" />
+		<Unit filename="include/ContaEspecial.h" />
+		<Unit filename="include/IConta.h" />
+		<Unit filename="include/classerascunho.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Automovel.cpp" />
+		<Unit filename="src/Carro.cpp" />
+		<Unit filename="src/Conta.cpp" />
+		<Unit filename="src/ContaEspecial.cpp" />
+		<Unit filename="src/IConta.cpp" />
+		<Unit filename="src/classerascunho.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

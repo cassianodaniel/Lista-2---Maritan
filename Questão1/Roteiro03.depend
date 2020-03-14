@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1582823523 source:c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\src\automovel.cpp
+	"Automovel.h"
+
+1582824122 c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\include\automovel.h
+
+1583900091 source:c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+	"Locale.h"
+
+1582824122 c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\include\carro.h
+	"Automovel.h"
+
+1582823691 source:c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\src\carro.cpp
+	"Carro.h"
+
+1582827764 source:c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\src\iconta.cpp
+	"IConta.h"
+
+1582828551 c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\include\iconta.h
+
+1583899925 source:c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\src\conta.cpp
+	"Conta.h"
+
+1582829350 c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\include\conta.h
+	"IConta.h"
+	<string>
+
+1583899590 source:c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1583899530 c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\include\contaespecial.h
+	"Conta.h"
+
+1583899465 source:c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\src\classerascunho.cpp
+	"classerascunho.h"
+
+1583899465 c:\users\edgelson\desktop\p2\derzu\roteiro03\roteiro03\roteiro03\include\classerascunho.h
+
